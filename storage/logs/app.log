@@ -1,0 +1,13 @@
+[2019-09-12 11:02:51] app.CRITICAL: Callable App\Controllers\CurrencyConverter\HomeController does not exist [] {"uid":"6251eaf"}
+[2019-09-12 11:03:33] app.CRITICAL: Callable App\Controllers\CurrencyConverter\HomeController does not exist [] {"uid":"9e41716"}
+[2019-09-13 10:59:44] app.CRITICAL: Unknown "amount" test. [] {"uid":"6413e37"}
+[2019-09-16 18:24:26] app.CRITICAL: An exception has been thrown during the rendering of a template ("Named route does not exist for name: formRoute"). [] {"uid":"bcd4035"}
+[2019-09-16 18:28:51] app.CRITICAL: An exception has been thrown during the rendering of a template ("Named route does not exist for name: formRoute"). [] {"uid":"7180ed7"}
+[2019-09-16 18:28:59] app.CRITICAL: An exception has been thrown during the rendering of a template ("Named route does not exist for name: formRoute"). [] {"uid":"792cac1"}
+[2019-09-24 14:04:40] app.CRITICAL: Unknown "json_stringify" filter. [] {"uid":"bb063be"}
+[2019-09-24 14:04:50] app.CRITICAL: Unknown "json_stringify" filter. [] {"uid":"831db96"}
+[2019-09-24 14:04:51] app.CRITICAL: Unknown "json_stringify" filter. [] {"uid":"6b8e7b5"}
+[2019-09-24 14:05:19] app.CRITICAL: Unknown "json_stringify" filter. [] {"uid":"55de110"}
+[2019-09-24 14:39:28] app.CRITICAL: Unexpected token "end of print statement" of value "". [] {"uid":"0020b3a"}
+[2019-09-24 14:39:37] app.CRITICAL: Unexpected token "end of print statement" of value "". [] {"uid":"a8339b9"}
+[2019-09-24 14:39:39] app.CRITICAL: Unexpected token "end of print statement" of value "". [] {"uid":"504d3f7"}
